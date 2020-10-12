@@ -1,3 +1,3 @@
 # Deep-learning
 
-The repo conatins source code for various deep learning projects 
+The repo contains source code for various deep learning projects 
